@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hey, I'm Sir Sagar Mahajan 👋
 
-<!--
-**SirSagarMahajan/SirSagarMahajan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI , IT , Computer & Mechanical Engineering Educator** • **YouTube Creator** • Building bridges between classic mechanical engineering and modern code.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 For Students
+I teach **Data Structures & Algorithms (DSA)** to Mechanical students. **Software Engineering** to IT Students. My goal is to make coding concepts intuitive by mapping them to real-world mechanical engineering analogies (like Stacks = sheet metal bins, Queues = conveyor belts).
+
+➡️ **[DSA for Mechanical Engineers Course Hub](https://github.com/SirSagarMahajan/DSA-for-Mechanical)** *(Link to be added soon)*
+
+### 🎥 For YouTube Viewers
+Code and resources from my videos:
+➡️ **[YouTube Resources](https://github.com/SirSagarMahajan/youtube-resources)** *(Link to be added soon)*
+
+### 🛠️ What I Work With
+`Python` `C++` `C` `Software Engineering` `Python For Quantum Computing`
+
+### 📫 Connect with Me
+- **YouTube:** [@SirSagarMahajan](https://www.youtube.com/@SirSagarMahajan)
+- **Students:** Use the repository Issues tab or our class forum for course-related doubts.
+
