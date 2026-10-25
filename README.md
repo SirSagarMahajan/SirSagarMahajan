@@ -14,8 +14,8 @@ https://github.com/SirSagarMahajan/youtube-resources
 
 
 ### 🎥 For YouTube Viewers
-Code and resources from my videos:
-➡️ **[YouTube Resources](https://github.com/SirSagarMahajan/youtube-resources)** 
+Lectures from my videos:
+➡️ **[YouTube Resources]((https://www.youtube.com/@SirSagarMahajan))** 
 *(https://www.youtube.com/@SirSagarMahajan)*
 
 ### 🛠️ What I Work With
