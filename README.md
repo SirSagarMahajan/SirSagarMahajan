@@ -7,13 +7,16 @@
 ### 🎓 For Students
 I teach **Data Structures & Algorithms (DSA)** to Mechanical students. **Software Engineering** to IT Students. My goal is to make coding concepts intuitive by mapping them to real-world mechanical engineering analogies (like Stacks = sheet metal bins, Queues = conveyor belts).
 
-➡️ **[DSA for Mechanical Engineers Course Hub](https://github.com/SirSagarMahajan/DSA-for-Mechanical)** *https://github.com/SirSagarMahajan/DSA-for-Mechanical
+➡️ **[DSA for Mechanical Engineers Course Hub]**
+https://github.com/SirSagarMahajan/DSA-for-Mechanical
 
-https://github.com/SirSagarMahajan/youtube-resources*
+https://github.com/SirSagarMahajan/youtube-resources
+
 
 ### 🎥 For YouTube Viewers
 Code and resources from my videos:
-➡️ **[YouTube Resources](https://github.com/SirSagarMahajan/youtube-resources)** *(Link to be added soon)*
+➡️ **[YouTube Resources](https://github.com/SirSagarMahajan/youtube-resources)** 
+*(https://www.youtube.com/@SirSagarMahajan)*
 
 ### 🛠️ What I Work With
 `Python` `C++` `C` `Software Engineering` `Python For Quantum Computing`
