@@ -10,7 +10,8 @@ I teach **Data Structures & Algorithms (DSA)** to Mechanical students. **Softwar
 ➡️ **[DSA for Mechanical Engineers Course Hub]**
 https://github.com/SirSagarMahajan/DSA-for-Mechanical
 
-https://github.com/SirSagarMahajan/youtube-resources
+➡️ **[Software Engineering for Computer/IT/AI Engineers Course Hub]**
+https://github.com/SirSagarMahajan/Software-Engineering-
 
 
 ### 🎥 For YouTube Viewers
